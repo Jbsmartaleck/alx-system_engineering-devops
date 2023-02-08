@@ -36,3 +36,5 @@ Command 16 deletes all files from a current working directory
 Command 17 creates multiple directories in the current directory
 
 Command 18 lists all directory, sort using only letters and digits and also end them with slash
+
+Command 19 creates a magic file that can be used with the command files to detect school data files. school data files always contain the string SCHOOL at offset 0
