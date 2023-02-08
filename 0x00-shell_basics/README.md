@@ -11,3 +11,5 @@ Fifth command is to display all files, including hidden ones in a directory
 Sixth command is to display files list in long format, with user and group IDs displayed numerically and also display hidden files
 
 Seventh command is to create a directory in another directory
+
+Command number 8 is to move a file from one directory to another 
