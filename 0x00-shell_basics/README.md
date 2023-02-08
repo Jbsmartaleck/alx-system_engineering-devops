@@ -28,3 +28,7 @@ Command is used to print a type of file in a directory
 Command 13 is to create a symbolic link to a file or directory
 
 Command 14 is to copy all of a specific file types but only copy those that don't exist in a parent directory.
+
+Command 15 is to move all files beginning with uppercase letter to a directory
+
+
