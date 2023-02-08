@@ -14,4 +14,6 @@ Seventh command is to create a directory in another directory
 
 Command number 8 is to move a file from one directory to another
 
-Ninth command is to delete a file from a directory 
+Ninth command is to delete a file from a directory
+
+Tenth command is to delete a directory from another directory 
