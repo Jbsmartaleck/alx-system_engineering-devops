@@ -31,4 +31,4 @@ Command 14 is to copy all of a specific file types but only copy those that don'
 
 Command 15 is to move all files beginning with uppercase letter to a directory
 
-
+Command 16 deletes all files from a current working directory
