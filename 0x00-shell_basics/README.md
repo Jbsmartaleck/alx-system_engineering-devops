@@ -12,4 +12,6 @@ Sixth command is to display files list in long format, with user and group IDs d
 
 Seventh command is to create a directory in another directory
 
-Command number 8 is to move a file from one directory to another 
+Command number 8 is to move a file from one directory to another
+
+Ninth command is to delete a file from a directory 
