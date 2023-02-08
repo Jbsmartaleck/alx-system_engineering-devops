@@ -34,3 +34,5 @@ Command 15 is to move all files beginning with uppercase letter to a directory
 Command 16 deletes all files from a current working directory
 
 Command 17 creates multiple directories in the current directory
+
+Command 18 lists all directory, sort using only letters and digits and also end them with slash
