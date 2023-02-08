@@ -18,4 +18,7 @@ Ninth command is to delete a file from a directory
 
 Tenth command is to delete a directory from another directory
 
-Command 11 is used to go back to previous directory 
+Command 11 is used to go back to previous directory
+
+Command 12 is to list all files including hidden ones in current
+directory, parent of working directory and boot directory in long format. 
