@@ -24,3 +24,5 @@ Command 12 is to list all files including hidden ones in current
 directory, parent of working directory and boot directory in long format. 
 
 Command is used to print a type of file in a directory
+
+Command 13 is to create a symbolic link to a file or directory
