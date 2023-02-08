@@ -16,4 +16,6 @@ Command number 8 is to move a file from one directory to another
 
 Ninth command is to delete a file from a directory
 
-Tenth command is to delete a directory from another directory 
+Tenth command is to delete a directory from another directory
+
+Command 11 is used to go back to previous directory 
