@@ -2,3 +2,4 @@
  Command 1 prints the effective username of the current user
  Command 2 prints all the groups the current user is part of
  Command 3 is to change file owner
+ Command 4 creates an empty file 
