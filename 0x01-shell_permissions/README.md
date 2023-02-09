@@ -1,2 +1,3 @@
  Command 0 switches current user to user betty
  Command 1 prints the effective username of the current user
+ Command 2 prints all the groups the current user is part of
