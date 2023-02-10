@@ -8,4 +8,5 @@
  Command 8 restricts permission except for others
  Command 9 sets the mode of a file
  Command 10 gives two files same permission
- Command 11 adds execute permission to all subdirectories of the current directory for the owner, group owner and other users    
+ Command 11 adds execute permission to all subdirectories of the current directory for the owner, group owner and other users
+ Command 12 creates a direcctory with a specific permission in the working directory    
