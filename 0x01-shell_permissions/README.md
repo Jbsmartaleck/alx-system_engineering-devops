@@ -12,4 +12,5 @@
  Command 12 creates a direcctory with a specific permission in the working directory
  Command 13 changes group owner for a file
  Command 14 changes owner and group owner for all files and directories in working directory.
- Command 15 changes group owner of a specific file    
+ Command 15 changes group owner of a specific file 
+ Command 16 changes owner of a file if owned by specific user   
