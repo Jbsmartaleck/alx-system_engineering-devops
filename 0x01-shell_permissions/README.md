@@ -6,4 +6,5 @@
  Command 5 makes a file executable
  Command 6 modifies file so that owner and group can execute while others can only read Command 7 gives execution permission to everybody
  Command 8 restricts permission except for others
- Command 9 sets the mode of a file  
+ Command 9 sets the mode of a file
+ Command 10 gives two files same permission   
