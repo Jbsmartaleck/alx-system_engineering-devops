@@ -10,4 +10,5 @@
  Command 10 gives two files same permission
  Command 11 adds execute permission to all subdirectories of the current directory for the owner, group owner and other users
  Command 12 creates a direcctory with a specific permission in the working directory
- Command 13 changes group owner for a file    
+ Command 13 changes group owner for a file
+ Command 14 changes owner and group owner    
