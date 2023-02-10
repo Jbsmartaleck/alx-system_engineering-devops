@@ -11,4 +11,5 @@
  Command 11 adds execute permission to all subdirectories of the current directory for the owner, group owner and other users
  Command 12 creates a direcctory with a specific permission in the working directory
  Command 13 changes group owner for a file
- Command 14 changes owner and group owner    
+ Command 14 changes owner and group owner for all files and directories in working directory.
+ Command 15 changes group owner of a specific file    
