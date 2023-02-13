@@ -41,4 +41,5 @@ Command 24 writes script that lists all files witha .gif in current dir and sub 
 
 Command 25 creates a script that decodes acrostics that use the first letter of each line
 
+Command 26 writes a script that parses web servers logs in TSV format as input and displays the 11 host or IP address which did the most request`:wq
 

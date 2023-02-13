@@ -1,0 +1,1 @@
+#!/bin/bashtal -n +2 | cut -f -1 | sort -k1 | uniq -c | sort -rank 1 | head -11 | rev | cut -d ' ' -f -1 | rev
