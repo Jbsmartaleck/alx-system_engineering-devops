@@ -26,3 +26,5 @@ Command 16 displays lines containing a pattern and 3 lines after them in a speci
 Command 17 displays all the lines in a file that do not contain a certain pattern
 
 Command 18 displays all lines of a file starting with a letter
+
+Command 19 replaces all characters A and c from input to Z and e respectively
