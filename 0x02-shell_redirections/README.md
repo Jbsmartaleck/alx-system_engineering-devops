@@ -8,4 +8,6 @@ Command 6 displays athe third line of a specific file
 
 Command 8 writes into a file the result of a command from another file
 command 9 duplicates last line of file
-Command 10 delete all regular files with a specific extension that are present in current dir and sub folders 
+Command 10 delete all regular files with a specific extension that are present in current dir and sub folders
+Command 11 counts the number of directories and sub directories in the current directory.
+ 
