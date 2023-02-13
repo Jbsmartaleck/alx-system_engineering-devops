@@ -34,3 +34,7 @@ Command 20 creates a script that removes all letters c and C from input
 Command 21 reverses an input
 
 Command 22 displays all users and their home dir sorted by users
+
+Command 23  write a command that finds all empty files a dirs in the current dir and sub dir
+
+
