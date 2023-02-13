@@ -30,3 +30,5 @@ Command 18 displays all lines of a file starting with a letter
 Command 19 replaces all characters A and c from input to Z and e respectively
 
 Command 20 creates a script that removes all letters c and C from input
+
+Command 21 reverses an input
