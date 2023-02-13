@@ -39,4 +39,6 @@ Command 23  write a command that finds all empty files a dirs in the current dir
 
 Command 24 writes script that lists all files witha .gif in current dir and sub dir
 
+Command 25 creates a script that decodes acrostics that use the first letter of each line
+
 
