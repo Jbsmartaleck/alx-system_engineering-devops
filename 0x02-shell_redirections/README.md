@@ -37,4 +37,6 @@ Command 22 displays all users and their home dir sorted by users
 
 Command 23  write a command that finds all empty files a dirs in the current dir and sub dir
 
+Command 24 writes script that lists all files witha .gif in current dir and sub dir
+
 
