@@ -23,5 +23,4 @@ Command 14 displays line containing pattern 'root' from a file
 Command  15 displays the number of lines that contain the pattern "bin" in a specific file
 
 Command 16 displays lines containing a pattern and 3 lines after them in a specific file
-
- 
+Command 17 displays all the lines in a file that do not contain a certain pattern
