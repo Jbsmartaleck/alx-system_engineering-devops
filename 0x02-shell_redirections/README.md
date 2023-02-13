@@ -32,3 +32,5 @@ Command 19 replaces all characters A and c from input to Z and e respectively
 Command 20 creates a script that removes all letters c and C from input
 
 Command 21 reverses an input
+
+Command 22 displays all users and their home dir sorted by users
